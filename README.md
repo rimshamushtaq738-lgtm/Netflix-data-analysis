@@ -2,15 +2,11 @@
 
 > Exploratory Data Analysis and visualization of Netflix Movies and TV Shows using Python to uncover patterns and trends in content, ratings, genres, countries, and release years.
 
----
-
 ## 📌 Project Overview
 
 This project focuses on exploring and analyzing the Netflix Movies and TV Shows dataset using Python and data visualization techniques.
 
 The goal is to clean and prepare the dataset, perform Exploratory Data Analysis (EDA), identify meaningful patterns, and communicate findings through clear and informative visualizations.
-
----
 
 ## 🎯 Objectives
 
@@ -24,10 +20,7 @@ The goal is to clean and prepare the dataset, perform Exploratory Data Analysis 
 - Create meaningful visualizations
 - Communicate data-driven findings
 
----
-
 ## 🛠️ Technologies Used
-
 - Python
 - Pandas
 - NumPy
@@ -36,16 +29,12 @@ The goal is to clean and prepare the dataset, perform Exploratory Data Analysis 
 - Google Colab
 - Jupyter Notebook
 
----
-
 ## 📂 Dataset
 
 The project uses the Netflix Movies and TV Shows dataset available through Kaggle.
 
 **Dataset Source:**  
 https://www.kaggle.com/datasets/shivamb/netflix-shows
-
----
 
 ## 🔍 Analysis Performed
 
@@ -75,8 +64,6 @@ The analysis explores several aspects of the Netflix dataset:
 - Trend visualizations
 - Other exploratory charts
 
----
-
 ## 📊 Key Insights
 
 The analysis was used to identify patterns in:
@@ -89,8 +76,6 @@ The analysis was used to identify patterns in:
 
 > Detailed findings and visualizations are available in the project notebook.
 
----
-
 ## 📓 Project Notebook
 
 The complete analysis is available in:
@@ -98,9 +83,6 @@ The complete analysis is available in:
 **`netflix_visualization.ipynb`**
 
 The notebook contains the complete data-cleaning, exploratory-analysis, and visualization workflow.
-
----
-
 ## 🚀 How to Run
 
 ### 1. Clone the repository
